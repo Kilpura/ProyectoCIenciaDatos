@@ -9,5 +9,5 @@ Este es el repositorio del grupo 11, curso IMT2200.
 
 # Nuestro Jupyter Notebook
 Los datos que utilizamos para el proyecto se encuentran en la carpeta data
-Donde hacemos los codigos y el analisis es en el archivo IMT2200_2024_grupo_11.ipynb
-
+Donde hacemos el analisis es en el archivo IMT2200_2024_grupo_11.ipynb
+Los codigos se encuentran la carpeta borradores_creados_por_integrantes
